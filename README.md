@@ -1,2 +1,2 @@
 SquareGridViewDemo.
-A GridView who has square items.
+A GridView, it has square items.
